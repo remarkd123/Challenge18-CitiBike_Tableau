@@ -14,7 +14,7 @@ The data was cleaned with Python and Tableau to ensuare that Start times, end ti
 Analysis of the data:
 The July data from 2019, 2020, 2021 and 2022 were used as representatives to determine the effect of the pandemic upon Citibike business.  We looked for gender differences, changes in subscriber/membership rates and changes in usage patterns and times in the available data.
 
-1.  2019-20 Bike Usage by Customer Type
+<b>1.  2019-20 Bike Usage by Customer Type</b>
 The pandemic and closures of other means of public transit drove people initially to Citibike, as noted by the marked increase in ridership
 There also seemed to be less of an intense peak in ridership during rush hour
 There seems to be an increase in the number of Casual riders rather than members/subscribers.  This may be due to the early shifting towards remote work models rather than the traditional in-office work models that dominated the marketplace pre-pandemic.
@@ -22,7 +22,7 @@ There seems to be an increase in the number of Casual riders rather than members
 
 
 
-2.  Bike Usage by Gender
+<b>2.  Bike Usage by Gender</b>
 Gender rates seem to be largely unaffected by the pandemic, as the users are predominantly male.
 ![02_tabl2.jpg](Images/02_tabl2.jpg)
 
