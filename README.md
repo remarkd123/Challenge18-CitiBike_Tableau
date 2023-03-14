@@ -6,9 +6,9 @@
 ([Citibike Dashboard 1: ](https://public.tableau.com/app/profile/david.kramer1831/viz/2019-20book/Dashboard1?publish=yes))
 ([Citibike Dashboard 2: ](https://public.tableau.com/app/profile/david.kramer1831/viz/202122CitibikeDashboard2/Dashboard1?publish=yes))
 
-NYC Citibike Dashboard Reporting for City Officials:
+## <b><div>NYC Citibike Dashboard Reporting for City Officials:</div></b>
 
-<b> Cleaning the Data:<b/>
+<b> Cleaning the Data:</b>
 The data was cleaned with Python and Tableau to ensuare that Start times, end times and tripduration were datetime objects, latitues and longitudes were geometric objects, and to remove lines with null values.
 
 Analysis of the data:
